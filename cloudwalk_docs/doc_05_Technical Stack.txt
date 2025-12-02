@@ -1,0 +1,3 @@
+Our primary backend language is Go (Golang) for high-performance microservices, with some legacy services still running on Python. We use PostgreSQL as our main relational database and Redis for caching and session management.
+
+All infrastructure is hosted on AWS, utilizing Kubernetes for container orchestration (EKS). Front-end applications are built using React and TypeScript, ensuring scalability and maintainability. CI/CD pipelines are managed through GitHub Actions.

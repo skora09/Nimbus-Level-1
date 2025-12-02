@@ -1,0 +1,3 @@
+Data security is paramount. All sensitive customer data must be encrypted both in transit (using TLS 1.3) and at rest (using AES-256 encryption keys managed by AWS KMS).
+
+All employees must complete mandatory annual security training and adhere to the principle of least privilege access. Two-Factor Authentication (2FA) is required for all internal systems, including email and VPN access. Any suspected security incident must be immediately reported to the Security Operations Center (SOC).

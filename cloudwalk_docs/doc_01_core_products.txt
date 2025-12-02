@@ -1,0 +1,5 @@
+CloudWalk provides a comprehensive suite of payment solutions for small and medium-sized merchants. Our flagship product is the "InfinitePay Smart" payment terminal, which runs on our proprietary Android-based operating system, ensuring secure and fast transactions.
+
+In addition to hardware, we offer the "InfiniteAccount" digital bank account, allowing customers to manage their finances, receive payments on a D+1 basis, and access credit facilities. For developers, the "CloudWalk API Gateway" provides programmatic access to all our services, facilitating third-party integration.
+
+The InfinitePay Smart is compatible with chip and PIN cards (EMV), magnetic stripe, and contactless payments (NFC).
